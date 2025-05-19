@@ -125,8 +125,5 @@ Best Fit line plot
 
 ![image](https://github.com/user-attachments/assets/27deb3af-162c-4367-af69-8f447d6b5de9)
 
-### New Sample Data Prediction
-Include your sample input and output here
-
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
